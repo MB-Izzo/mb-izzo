@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[[![My Skills]([https://skillicons.dev/icons?i=cpp,cs,python,react,neovim,js,ts,html,css)]
 <!--
 **MB-Izzo/MB-Izzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
