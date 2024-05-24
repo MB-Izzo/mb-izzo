@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi! I'm Mathieu
+
+> - Software programmer at Ubisoft
+> - Webdev enthousiast
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,react,neovim,js,ts,html,css)](https://skillicons.dev)
 
