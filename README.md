@@ -1,5 +1,5 @@
 ## Hi! I'm Mathieu
-
+I'm a 27 years old developer from France.
 - Software programmer at Ubisoft
 - Webdev enthousiast
 
