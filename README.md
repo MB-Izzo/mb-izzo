@@ -1,7 +1,7 @@
 ## Hi!
 I'm Mathieu, developer from France.
 - Software programmer at Ubisoft
-- Webdev enthousiast
+- Webdev enthusiast
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,react,neovim,js,ts,html,css)](https://skillicons.dev)
 
